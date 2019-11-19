@@ -1,9 +1,9 @@
 # Site/SEO settings
-email: 
+email: chelseadole@gmail.com
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-title: Trophy
+title: Onwards and Upwards
 description: 
 url: ""
 baseurl: ""
@@ -11,11 +11,13 @@ twitter_username:
 default_img: 
 
 # Profile settings
-name: 
+name: Chelsea Dole
 profile_img: 
 profile: 
 social:
-  github: 
+  github: https://github.com/chelseadole
+  instagram: https://www.instagram.com/chelseadole/
+  linkedin: https://www.linkedin.com/in/chelsea-dole
 
 # Build settings
 markdown: kramdown
@@ -28,7 +30,6 @@ compress_html:
   comments: all
   startings: [html, head, body]
 exclude:
-  - _screenshots
   - .DS_Store
   - Gemfile
   - Gemfile.lock
