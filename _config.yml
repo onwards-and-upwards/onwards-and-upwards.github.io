@@ -4,7 +4,7 @@ permalink: /:year/:month/:day/:title/
 google_analytics: 
 
 title: Onwards and Upwards
-description: 
+description:
 url: ""
 baseurl: ""
 twitter_username: 
@@ -12,8 +12,8 @@ default_img:
 
 # Profile settings
 name: Chelsea Dole
-profile_img: 
-profile: 
+profile_img: /assets/imgs/background_pic.png
+profile: Onward and Upwards.
 social:
   github: https://github.com/chelseadole
   instagram: https://www.instagram.com/chelseadole/

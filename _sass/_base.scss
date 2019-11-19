@@ -1,7 +1,6 @@
 /**
  * Base Variables
  */
-//$font-header: 'Space Mono', monospace;
 $font-header: 'Bebas Neue', cursive;
 $font-body: 'Lora', serif;
 $font-post: 'Lora', serif;
@@ -158,4 +157,9 @@ ol, ul {
   color: $color-white;
   background-color: $color-alpha;
   text-shadow: none;
+}
+
+#profile-box {
+  font-family: $font-header;
+  font-size: 3.5em;
 }
